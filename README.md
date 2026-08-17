@@ -1,1 +1,2 @@
-registwration
+registration
+
